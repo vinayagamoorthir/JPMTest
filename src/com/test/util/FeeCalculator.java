@@ -1,4 +1,4 @@
-package com.test.jpmorgan.util;
+package com.test.util;
 
 public class FeeCalculator {
 

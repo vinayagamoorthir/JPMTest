@@ -1,4 +1,4 @@
-package com.test.jpmorgan.util;
+package com.test.util;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

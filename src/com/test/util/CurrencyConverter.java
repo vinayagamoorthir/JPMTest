@@ -1,4 +1,4 @@
-package com.test.jpmorgan.util;
+package com.test.util;
 
 import java.util.Collections;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package com.test.jpmorgan.util;
+package com.test.util;
 
 import java.io.FileWriter;
 import java.math.BigDecimal;

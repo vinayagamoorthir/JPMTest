@@ -1,4 +1,4 @@
-package com.test.jpmorgan.main;
+package com.test.main;
 
 import java.util.ArrayList;
 import java.util.List;

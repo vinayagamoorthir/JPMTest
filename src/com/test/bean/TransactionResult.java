@@ -1,4 +1,4 @@
-package com.test.jpmorgan.bean;
+package com.test.bean;
 
 public class TransactionResult extends Transaction {
 
